@@ -44,4 +44,4 @@ The app has no application server and does not store announcement text. It loads
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Browser/OS voice services and externally served fonts are governed by their respective providers and licenses.
+GNU Affero General Public License v3.0 (AGPL-3.0-only) — see [LICENSE](LICENSE). Browser/OS voice services and externally served fonts are governed by their respective providers and licenses.
